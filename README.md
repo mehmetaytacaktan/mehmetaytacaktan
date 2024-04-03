@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darthvulpix444&label=Profile%20views&color=0e75b6&style=flat" alt="darthvulpix444" /> </p>
 
-- 🔭 I’m currently working on [Python and MATLAB](https://github.com/darthvulpix444/MATLABExamples)
+- 🔭 I’m currently working on [Python and MATLAB](https://github.com/mehmetaytacaktan/MATLABExamples)
 
 - 🌱 I’m currently learning **Data Science basics**
 
