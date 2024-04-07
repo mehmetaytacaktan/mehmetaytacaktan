@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋, I'm Mehmet Aytaç!</h1>
 <h3 align="center">A curious data science learner and 3rd grade student on Computer Engineering in Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darthvulpix444&label=Profile%20views&color=0e75b6&style=flat" alt="darthvulpix444" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetaytacaktan&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetaytacaktan" /> </p>
 
 - 🔭 I’m currently working on [Python and MATLAB](https://github.com/mehmetaytacaktan/MATLABExamples)
 
