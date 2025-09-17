@@ -4,9 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetaytacaktan&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetaytacaktan" /> </p>
 
 🚀 An aspiring AI Engineer & Computer Engineering senior passionate about LLMs and real-world AI applications
+
 🤖 Curious learner exploring Machine Learning, Computer Vision, and LLM-powered systems
+
 🎓 Final-year Computer Engineering student | Building projects in AI & Machine Learning
+
 🔭 I’m currently working on LLM-powered RAG applications and real-world AI projects.
+
 🌱 I’m currently learning topics related to AI Engineering, including LLM integration, deployment, and scalable systems.
 
 <h3 align="left">Languages and Tools:</h3>
