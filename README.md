@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋, I'm Mehmet Aytaç Akçan</h1>
+<h1 align="center">Hello there! 👋, I'm Mehmet Aytaç!</h1>
 <h3 align="center">Computer Engineer | Focused on Computer Vision & MLOps</h3>
 
 <p align="center"> 
