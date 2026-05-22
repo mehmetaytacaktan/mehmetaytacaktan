@@ -10,7 +10,7 @@
 ### 🚀 About Me
 * 🎓 **Computer Engineer** passionate about bridging the gap between Deep Learning research and production-ready systems.
 * 🛠️ Focused on **Computer Vision**, **MLOps**, and building scalable, end-to-end machine learning pipelines.
-* 🧠 Experienced in developing asynchronous APIs (**FastAPI**), containerization (**Docker**), and deploying models onto cloud/remote servers (**VPS/Nginx**).
+* 🧠 Comprehensive expertise in end-to-end **Computer Vision** workflows: From training custom CNNs with transfer learning & fine-tuning, to deploying production-ready APIs (**FastAPI**, **Docker**, **VPS/Nginx**).
 * 📚 Preparing for graduate studies (MSc) focusing on Advanced Computer Science and Intelligent Systems.
 
 ---
